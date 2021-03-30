@@ -30,5 +30,6 @@ npm install
 
 
 ## Credits
-Coded by [Jessica Coneff](https://github.com/jconeff)
+Coded by [Jessica Coneff](https://github.com/jconeff),
+UCF
 [Starter code](https://github.com/coding-boot-camp/solid-broccoli)
