@@ -20,7 +20,7 @@ npm install
 ```
 
 ## Description
-
+Google search enginge for books, user can create an account and save a list of books and delete from list.
 [Deploy Here!](https://aqueous-bayou-37108.herokuapp.com/)
 
 
